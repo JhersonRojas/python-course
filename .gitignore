@@ -1,0 +1,14 @@
+# Directorios generados
+__pycache__/
+*.pyc
+*.pyo
+*.env
+
+# Dependencias
+Pipfile.lock
+venv/
+virtualenv/
+
+# Archivos de registro y salida
+logs/
+*.log
