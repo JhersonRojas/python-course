@@ -1,1 +1,2 @@
-print("Hello world with Python!!!")
+import sintaxis.valores
+import sintaxis.funciones
